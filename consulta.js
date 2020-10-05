@@ -15,7 +15,7 @@ const MongoClient = require('mongodb').MongoClient;
 const assert = require('assert');
 
 //Connection URL
-const url = 'mongodb+srv://dbUser_Application:WEGLXrQbJi0i8gm2@cluster.azvt4.azure.mongodb.net/<dbname>?retryWrites=true&w=majority';
+const url = 'mongodb+srv://dbUser_Application:*****@cluster.azvt4.azure.mongodb.net/<dbname>?retryWrites=true&w=majority';
 
 //Database Name
 const dbName = 'ifsp';
